@@ -135,7 +135,7 @@ const numanuddin = {
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/shaikhnumanuddin6">
+<a href="linkedin.com/in/shaikh-numanuddin-475470366">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
