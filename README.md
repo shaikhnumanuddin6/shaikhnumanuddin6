@@ -478,16 +478,3 @@ Building Web Projects
 
 ### 🚀 Keep Building. Keep Learning. Keep Growing.
 
-</div>
-## 🏆 GitHub Achievement Badges
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/YOLO-🚀-58A6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pull%20Shark-🦈-A371F7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Quickdraw-⚡-F0883E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Galaxy%20Brain-🧠-8957E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Starstruck-⭐-F2CC60?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pair%20Extraordinaire-🤝-3FB950?style=for-the-badge" />
-
-</div>
